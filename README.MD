@@ -2,7 +2,7 @@
 
 <h2>Студент группы 253504<br>Решетнёв Арсений<br>Лабораторные работы по дисциплине<br></h2><h3>Избранные главы информатики</h3>
 
- - [IGI](htps://github.com/Sayrexxx/IGI/tree/IGI)
+ - [IGI](https://github.com/Sayrexxx/IGI/tree/IGI)
       - [LR1](https://github.com/Sayrexxx/IGI/tree/IGI_LR1)
       - [LR2](https://github.com/Sayrexxx/IGI/tree/IGI_LR2)
       - [LR3](https://github.com/Sayrexxx/IGI/tree/IGI_LR3)
