@@ -3,4 +3,4 @@
 	url = https://github.com/Sayrexxx/djangoProject
 [submodule "IGI/LR5/djangoProject"]
 	path = IGI/LR5/djangoProject
-	url = https://github.com/Sayrexxx/djangoProject
+	url = https://github.com/Sayrexxx/djangoProject.git
